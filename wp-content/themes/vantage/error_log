@@ -1,0 +1,16 @@
+[08-Oct-2017 07:40:15 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/newco9fx/public_html/marsdeveloper.com/wp-content/themes/vantage/archive.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/newco9fx/public_html/marsdeveloper.com/wp-content/themes/vantage/archive.php on line 12
+[08-Oct-2017 07:40:16 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/newco9fx/public_html/marsdeveloper.com/wp-content/themes/vantage/archive.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/newco9fx/public_html/marsdeveloper.com/wp-content/themes/vantage/archive.php on line 12
+[09-Oct-2017 17:39:46 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/newco9fx/public_html/marsdeveloper.com/wp-content/themes/vantage/header.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/newco9fx/public_html/marsdeveloper.com/wp-content/themes/vantage/header.php on line 12
+[09-Oct-2017 17:39:46 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/newco9fx/public_html/marsdeveloper.com/wp-content/themes/vantage/header.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/newco9fx/public_html/marsdeveloper.com/wp-content/themes/vantage/header.php on line 12

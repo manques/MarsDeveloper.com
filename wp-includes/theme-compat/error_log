@@ -1,0 +1,4 @@
+[13-Feb-2018 21:41:48 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function post_class() in /home/newco9fx/public_html/marsdeveloper.com/wp-includes/theme-compat/embed-content.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/newco9fx/public_html/marsdeveloper.com/wp-includes/theme-compat/embed-content.php on line 13

@@ -1,0 +1,1 @@
+[04-Oct-2017 00:43:26 Etc/GMT] PHP Fatal error:  Call to undefined function add_action() in /home/newco9fx/public_html/marsdeveloper.com/wp-content/plugins/hello.php on line 60

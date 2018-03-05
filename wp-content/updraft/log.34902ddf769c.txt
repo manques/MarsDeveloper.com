@@ -1,0 +1,296 @@
+0000.000 (0) Opened log file at time: Sat, 04 Nov 2017 06:15:47 +0000 on http://www.marsdeveloper.com
+0000.001 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.13.12 WP: 4.8.3 PHP: 7.1.9 (litespeed, Linux md-in-80.webhostbox.net 2.6.32-673.26.1.lve1.4.30.el6.x86_64 #1 SMP Wed Jun 21 19:37:37 EDT 2017 x86_64) MySQL: 5.6.36 WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 34.4M | 36M) multisite: N openssl: OpenSSL 1.0.2k-fips  26 Jan 2017 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.123 (0) Free space on disk containing Updraft's temporary directory: 4740810.7 MB
+0000.124 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.125 (0) Semaphore (fd, wppt_options) being initialised
+0000.126 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.127 (0) Set semaphore last lock (fd) time to 2017-11-04 06:15:48
+0000.127 (0) Semaphore lock (fd) complete
+0000.129 (0) Backup run: resumption=0, nonce=34902ddf769c, begun at=1509776147 (1s ago), job type=backup
+0000.130 (0) Scheduling a resumption (1) after 300 seconds (1509776448) in case this run gets aborted
+0000.138 (0) Checking if we have a zip executable available
+0000.138 (0) Testing: /usr/bin/zip
+0000.143 (0) Output: zip warning: binziptest/test.zip not found or empty
+0000.144 (0) Output: adding: binziptest/subdir1/	(in=0) (out=0) (stored 0%)
+0000.144 (0) Output: adding: binziptest/subdir1/subdir2/	(in=0) (out=0) (stored 0%)
+0000.144 (0) Output: adding: binziptest/subdir1/subdir2/test.html	(in=131) (out=107) (deflated 18%)
+0000.145 (0) Output: total bytes=131, compressed=107 -> 18% savings
+0000.148 (0) Output: adding: binziptest/subdir1/subdir2/test2.html	(in=138) (out=113) (deflated 18%)
+0000.149 (0) Output: total bytes=269, compressed=220 -> 18% savings
+0000.155 (0) Working binary zip found: /usr/bin/zip
+0000.156 (0) Zip engine: found/will use a binary zip: /usr/bin/zip
+0000.156 (0) Creation of backups of directories: beginning
+0000.157 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0000.395 (0) Total entities for the zip file: 1229 directories, 5897 files (0 skipped as non-modified), 70.1 MB
+0000.398 (0) Zip: backup_2017-11-04-0615_Mars_Developer_34902ddf769c-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0000.401 (0) Zip: backup_2017-11-04-0615_Mars_Developer_34902ddf769c-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0000.403 (0) Zip: backup_2017-11-04-0615_Mars_Developer_34902ddf769c-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0000.405 (0) Zip: backup_2017-11-04-0615_Mars_Developer_34902ddf769c-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0000.407 (0) Zip: backup_2017-11-04-0615_Mars_Developer_34902ddf769c-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0000.408 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (3 MB, 5897 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0001.243 (0) backup_2017-11-04-0615_Mars_Developer_34902ddf769c-plugins.zip.tmp: size is now: 1.60 MB
+0001.246 (0) Zip: backup_2017-11-04-0615_Mars_Developer_34902ddf769c-plugins.zip.tmp: 600 files added (on-disk size: 1661.1 KB)
+0001.248 (0) Zip: backup_2017-11-04-0615_Mars_Developer_34902ddf769c-plugins.zip.tmp: 700 files added (on-disk size: 1661.1 KB)
+0001.251 (0) Zip: backup_2017-11-04-0615_Mars_Developer_34902ddf769c-plugins.zip.tmp: 800 files added (on-disk size: 1661.1 KB)
+0001.253 (0) Zip: backup_2017-11-04-0615_Mars_Developer_34902ddf769c-plugins.zip.tmp: 900 files added (on-disk size: 1661.1 KB)
+0001.255 (0) Zip: backup_2017-11-04-0615_Mars_Developer_34902ddf769c-plugins.zip.tmp: 1000 files added (on-disk size: 1661.1 KB)
+0001.256 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (2.8 MB, 5897 files batched, 501 (1002) added so far); re-opening (prior size: 1661.1 KB)
+0001.934 (0) backup_2017-11-04-0615_Mars_Developer_34902ddf769c-plugins.zip.tmp: size is now: 3.40 MB
+0001.937 (0) Zip: backup_2017-11-04-0615_Mars_Developer_34902ddf769c-plugins.zip.tmp: 1100 files added (on-disk size: 3442.8 KB)
+0001.940 (0) Zip: backup_2017-11-04-0615_Mars_Developer_34902ddf769c-plugins.zip.tmp: 1200 files added (on-disk size: 3442.8 KB)
+0001.942 (0) Zip: backup_2017-11-04-0615_Mars_Developer_34902ddf769c-plugins.zip.tmp: 1300 files added (on-disk size: 3442.8 KB)
+0001.944 (0) Zip: backup_2017-11-04-0615_Mars_Developer_34902ddf769c-plugins.zip.tmp: 1400 files added (on-disk size: 3442.8 KB)
+0001.946 (0) Zip: backup_2017-11-04-0615_Mars_Developer_34902ddf769c-plugins.zip.tmp: 1500 files added (on-disk size: 3442.8 KB)
+0001.946 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (1.5 MB, 5897 files batched, 501 (1503) added so far); re-opening (prior size: 3442.8 KB)
+0002.511 (0) backup_2017-11-04-0615_Mars_Developer_34902ddf769c-plugins.zip.tmp: size is now: 4.80 MB
+0002.514 (0) Zip: backup_2017-11-04-0615_Mars_Developer_34902ddf769c-plugins.zip.tmp: 1600 files added (on-disk size: 4903.8 KB)
+0002.516 (0) Zip: backup_2017-11-04-0615_Mars_Developer_34902ddf769c-plugins.zip.tmp: 1700 files added (on-disk size: 4903.8 KB)
+0002.518 (0) Zip: backup_2017-11-04-0615_Mars_Developer_34902ddf769c-plugins.zip.tmp: 1800 files added (on-disk size: 4903.8 KB)
+0002.521 (0) Zip: backup_2017-11-04-0615_Mars_Developer_34902ddf769c-plugins.zip.tmp: 1900 files added (on-disk size: 4903.8 KB)
+0002.523 (0) Zip: backup_2017-11-04-0615_Mars_Developer_34902ddf769c-plugins.zip.tmp: 2000 files added (on-disk size: 4903.8 KB)
+0002.524 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (9.7 MB, 5897 files batched, 501 (2004) added so far); re-opening (prior size: 4903.8 KB)
+0004.749 (0) backup_2017-11-04-0615_Mars_Developer_34902ddf769c-plugins.zip.tmp: size is now: 10.40 MB
+0004.753 (0) Zip: backup_2017-11-04-0615_Mars_Developer_34902ddf769c-plugins.zip.tmp: 2100 files added (on-disk size: 10687.8 KB)
+0004.755 (0) Zip: backup_2017-11-04-0615_Mars_Developer_34902ddf769c-plugins.zip.tmp: 2200 files added (on-disk size: 10687.8 KB)
+0004.758 (0) Zip: backup_2017-11-04-0615_Mars_Developer_34902ddf769c-plugins.zip.tmp: 2300 files added (on-disk size: 10687.8 KB)
+0004.760 (0) Zip: backup_2017-11-04-0615_Mars_Developer_34902ddf769c-plugins.zip.tmp: 2400 files added (on-disk size: 10687.8 KB)
+0004.762 (0) Zip: backup_2017-11-04-0615_Mars_Developer_34902ddf769c-plugins.zip.tmp: 2500 files added (on-disk size: 10687.8 KB)
+0004.763 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (7.9 MB, 5897 files batched, 501 (2505) added so far); re-opening (prior size: 10687.8 KB)
+0007.740 (0) backup_2017-11-04-0615_Mars_Developer_34902ddf769c-plugins.zip.tmp: size is now: 13.70 MB
+0007.744 (0) Zip: backup_2017-11-04-0615_Mars_Developer_34902ddf769c-plugins.zip.tmp: 2600 files added (on-disk size: 14014.8 KB)
+0007.746 (0) Zip: backup_2017-11-04-0615_Mars_Developer_34902ddf769c-plugins.zip.tmp: 2700 files added (on-disk size: 14014.8 KB)
+0007.748 (0) Zip: backup_2017-11-04-0615_Mars_Developer_34902ddf769c-plugins.zip.tmp: 2800 files added (on-disk size: 14014.8 KB)
+0007.750 (0) Zip: backup_2017-11-04-0615_Mars_Developer_34902ddf769c-plugins.zip.tmp: 2900 files added (on-disk size: 14014.8 KB)
+0007.753 (0) Zip: backup_2017-11-04-0615_Mars_Developer_34902ddf769c-plugins.zip.tmp: 3000 files added (on-disk size: 14014.8 KB)
+0007.753 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (3 MB, 5897 files batched, 501 (3006) added so far); re-opening (prior size: 14014.8 KB)
+0010.614 (0) Zip: backup_2017-11-04-0615_Mars_Developer_34902ddf769c-plugins.zip.tmp: 3100 files added (on-disk size: 15284.3 KB)
+0010.617 (0) Zip: backup_2017-11-04-0615_Mars_Developer_34902ddf769c-plugins.zip.tmp: 3200 files added (on-disk size: 15284.3 KB)
+0010.619 (0) Zip: backup_2017-11-04-0615_Mars_Developer_34902ddf769c-plugins.zip.tmp: 3300 files added (on-disk size: 15284.3 KB)
+0010.621 (0) Zip: backup_2017-11-04-0615_Mars_Developer_34902ddf769c-plugins.zip.tmp: 3400 files added (on-disk size: 15284.3 KB)
+0010.623 (0) Zip: backup_2017-11-04-0615_Mars_Developer_34902ddf769c-plugins.zip.tmp: 3500 files added (on-disk size: 15284.3 KB)
+0010.624 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (7 MB, 5897 files batched, 501 (3507) added so far); re-opening (prior size: 15284.3 KB)
+0011.837 (0) Zip: backup_2017-11-04-0615_Mars_Developer_34902ddf769c-plugins.zip.tmp: 3600 files added (on-disk size: 17786.9 KB)
+0011.840 (0) Zip: backup_2017-11-04-0615_Mars_Developer_34902ddf769c-plugins.zip.tmp: 3700 files added (on-disk size: 17786.9 KB)
+0011.842 (0) Zip: backup_2017-11-04-0615_Mars_Developer_34902ddf769c-plugins.zip.tmp: 3800 files added (on-disk size: 17786.9 KB)
+0011.845 (0) Zip: backup_2017-11-04-0615_Mars_Developer_34902ddf769c-plugins.zip.tmp: 3900 files added (on-disk size: 17786.9 KB)
+0011.847 (0) Zip: backup_2017-11-04-0615_Mars_Developer_34902ddf769c-plugins.zip.tmp: 4000 files added (on-disk size: 17786.9 KB)
+0011.847 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (7 MB, 5897 files batched, 501 (4008) added so far); re-opening (prior size: 17786.9 KB)
+0014.681 (0) backup_2017-11-04-0615_Mars_Developer_34902ddf769c-plugins.zip.tmp: size is now: 21.30 MB
+0014.684 (0) Zip: backup_2017-11-04-0615_Mars_Developer_34902ddf769c-plugins.zip.tmp: 4100 files added (on-disk size: 21850.5 KB)
+0014.687 (0) Zip: backup_2017-11-04-0615_Mars_Developer_34902ddf769c-plugins.zip.tmp: 4200 files added (on-disk size: 21850.5 KB)
+0014.689 (0) Zip: backup_2017-11-04-0615_Mars_Developer_34902ddf769c-plugins.zip.tmp: 4300 files added (on-disk size: 21850.5 KB)
+0014.691 (0) Zip: backup_2017-11-04-0615_Mars_Developer_34902ddf769c-plugins.zip.tmp: 4400 files added (on-disk size: 21850.5 KB)
+0014.693 (0) Zip: backup_2017-11-04-0615_Mars_Developer_34902ddf769c-plugins.zip.tmp: 4500 files added (on-disk size: 21850.5 KB)
+0014.694 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (6.7 MB, 5897 files batched, 501 (4509) added so far); re-opening (prior size: 21850.5 KB)
+0017.945 (0) Zip: backup_2017-11-04-0615_Mars_Developer_34902ddf769c-plugins.zip.tmp: 4600 files added (on-disk size: 25509.4 KB)
+0017.947 (0) Zip: backup_2017-11-04-0615_Mars_Developer_34902ddf769c-plugins.zip.tmp: 4700 files added (on-disk size: 25509.4 KB)
+0017.949 (0) Zip: backup_2017-11-04-0615_Mars_Developer_34902ddf769c-plugins.zip.tmp: 4800 files added (on-disk size: 25509.4 KB)
+0017.952 (0) Zip: backup_2017-11-04-0615_Mars_Developer_34902ddf769c-plugins.zip.tmp: 4900 files added (on-disk size: 25509.4 KB)
+0017.954 (0) Zip: backup_2017-11-04-0615_Mars_Developer_34902ddf769c-plugins.zip.tmp: 5000 files added (on-disk size: 25509.4 KB)
+0017.954 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (2.9 MB, 5897 files batched, 501 (5010) added so far); re-opening (prior size: 25509.4 KB)
+0018.961 (0) Zip: backup_2017-11-04-0615_Mars_Developer_34902ddf769c-plugins.zip.tmp: 5100 files added (on-disk size: 26485.8 KB)
+0018.963 (0) Zip: backup_2017-11-04-0615_Mars_Developer_34902ddf769c-plugins.zip.tmp: 5200 files added (on-disk size: 26485.8 KB)
+0018.965 (0) Zip: backup_2017-11-04-0615_Mars_Developer_34902ddf769c-plugins.zip.tmp: 5300 files added (on-disk size: 26485.8 KB)
+0018.968 (0) Zip: backup_2017-11-04-0615_Mars_Developer_34902ddf769c-plugins.zip.tmp: 5400 files added (on-disk size: 26485.8 KB)
+0018.970 (0) Zip: backup_2017-11-04-0615_Mars_Developer_34902ddf769c-plugins.zip.tmp: 5500 files added (on-disk size: 26485.8 KB)
+0018.970 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (1.8 MB, 5897 files batched, 501 (5511) added so far); re-opening (prior size: 26485.8 KB)
+0019.253 (0) Zip: backup_2017-11-04-0615_Mars_Developer_34902ddf769c-plugins.zip.tmp: 5600 files added (on-disk size: 27456.4 KB)
+0019.256 (0) Zip: backup_2017-11-04-0615_Mars_Developer_34902ddf769c-plugins.zip.tmp: 5700 files added (on-disk size: 27456.4 KB)
+0019.258 (0) Zip: backup_2017-11-04-0615_Mars_Developer_34902ddf769c-plugins.zip.tmp: 5800 files added (on-disk size: 27456.4 KB)
+0020.948 (0) Created plugins zip (0) - 32088.5 KB in 20.7 s (1552.8 KB/s) (sha1: 631a6774cb116f9a0c089a1311b334938b29d2ea, sha256: 71634c9cf867cb79f0ee779315b3d7b0b65fde018e0f6bfdcaa0e8eb826646e8)
+0020.950 (0) Beginning creation of dump of themes (split every: 400 MB)
+0021.094 (0) Total entities for the zip file: 57 directories, 280 files (0 skipped as non-modified), 3.9 MB
+0021.096 (0) Zip: backup_2017-11-04-0615_Mars_Developer_34902ddf769c-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0021.098 (0) Zip: backup_2017-11-04-0615_Mars_Developer_34902ddf769c-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0021.547 (0) backup_2017-11-04-0615_Mars_Developer_34902ddf769c-themes.zip.tmp: size is now: 2.30 MB
+0021.582 (0) Created themes zip (0) - 2342.4 KB in 0.5 s (4736.8 KB/s) (sha1: 71d5029f7d13fb9f3e6d3a10cd66d121b7cefbc5, sha256: 23bc08a73088d1ac2f91e91e513f0af117a7f788924adfaf612bc41a800c55a7)
+0021.584 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0021.584 (0) Looking for candidates to back up in: /home/newco9fx/public_html/marsdeveloper.com/wp-content/uploads
+0021.584 (0) finding files: apppresser: adding to list (1)
+0021.585 (0) finding files: 2017: adding to list (2)
+0021.585 (0) finding files: siteorigin-widgets: adding to list (3)
+0021.585 (0) finding files: so-css: adding to list (4)
+0021.585 (0) finding files: grid-gallery: adding to list (5)
+0021.586 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0021.732 (0) Total entities for the zip file: 14 directories, 344 files (0 skipped as non-modified), 43.6 MB
+0021.734 (0) Zip: backup_2017-11-04-0615_Mars_Developer_34902ddf769c-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0021.736 (0) Zip: backup_2017-11-04-0615_Mars_Developer_34902ddf769c-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0021.737 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 25 MB added on this batch (25 MB, 344 files batched, 239 (239) added so far); re-opening (prior size: 0 KB)
+0023.902 (0) backup_2017-11-04-0615_Mars_Developer_34902ddf769c-uploads.zip.tmp: size is now: 25.10 MB
+0023.903 (0) A useful amount of data was added after this amount of zip processing: 2.8 s (normalised: 2.8 s, rate: 9036.2 KB/s)
+0023.904 (0) Performance is good - will increase the amount of data we attempt to batch (time=2.8330609798431, normalised_time=2.8330341780672, max_time=-1, data points known=0, old_max_bytes=26214400, new_max_bytes=55518708)
+0023.906 (0) Zip: backup_2017-11-04-0615_Mars_Developer_34902ddf769c-uploads.zip.tmp: 300 files added (on-disk size: 25656.4 KB)
+0028.636 (0) backup_2017-11-04-0615_Mars_Developer_34902ddf769c-uploads.zip.tmp: size is now: 43.70 MB
+0029.505 (0) Created uploads zip (0) - 44727.5 KB in 7.8 s (5739.9 KB/s) (sha1: d228d28388b75e8e224de43f9adceff59b759473, sha256: e97001c64c15294e76ff9dda561c3c06bd39b59790ce938f635cd0bfaa0a8bf3)
+0029.506 (0) Beginning backup of other directories found in the content directory (index: 0)
+0029.507 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0029.507 (0) Looking for candidates to back up in: /home/newco9fx/public_html/marsdeveloper.com/wp-content
+0029.508 (0) finding files: mu-plugins: adding to list (1)
+0029.508 (0) finding files: plugins: skipping: this is the plugins directory
+0029.508 (0) finding files: upgrade: skipping: excluded by options
+0029.508 (0) finding files: themes: skipping: this is the themes directory
+0029.509 (0) finding files: uploads: skipping: this is the uploads directory
+0029.509 (0) finding files: updraft: skipping: this is the updraft directory
+0029.509 (0) finding files: index.php: adding to list (2)
+0029.633 (0) Total entities for the zip file: 1 directories, 2 files (0 skipped as non-modified), 0 MB
+0029.650 (0) backup_2017-11-04-0615_Mars_Developer_34902ddf769c-others.zip.tmp: size is now: 0.00 MB
+0029.653 (0) Created others zip (0) - 1.1 KB in 0 s (53.2 KB/s) (sha1: a79f60a0e08df756be2213417da1bc4c1fc169fa, sha256: db71b145ee38e8f9ca565fc3e9a45588ca5203b89b5bc3751b3c5574d2a4a4da)
+0029.655 (0) Saving backup status to database (elements: 8)
+0029.656 (0) Beginning creation of database dump (WordPress DB)
+0029.657 (0) Testing: /usr/bin/mysqldump
+0029.715 (0) Output: /*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;\n/*!40103 SET TIME_ZONE='+00:00' */;\n/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;\n/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;\n/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;\n/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;\n/*!50112 SELECT COUNT(*) INTO @is_rocksdb_supported FROM INFORMATION_SCHEMA.SESSION_VARIABLES WHERE VARIABLE_NAME='rocksdb_bulk_load' */;\n/*!50112 (truncated - 1719 bytes total)
+0029.717 (0) Working binary mysqldump found: /usr/bin/mysqldump
+0029.738 (0) Table wppt_options: Total expected rows (approximate): 336
+0029.750 (0) Table wppt_options: Total rows added: 332 in 0.01 seconds
+0029.751 (0) Table wppt_options: finishing file (backup_2017-11-04-0615_Mars_Developer_34902ddf769c-db-table-wppt_options.table.gz - 33.9 KB)
+0029.753 (0) Table wppt_users: Total expected rows (approximate): 1
+0029.754 (0) Table wppt_users: Total rows added: 1 in 0.00 seconds
+0029.755 (0) Table wppt_users: finishing file (backup_2017-11-04-0615_Mars_Developer_34902ddf769c-db-table-wppt_users.table.gz - 0.5 KB)
+0029.756 (0) Table wppt_usermeta: Total expected rows (approximate): 29
+0029.758 (0) Table wppt_usermeta: Total rows added: 29 in 0.00 seconds
+0029.758 (0) Table wppt_usermeta: finishing file (backup_2017-11-04-0615_Mars_Developer_34902ddf769c-db-table-wppt_usermeta.table.gz - 1.7 KB)
+0029.764 (0) Table wppt_commentmeta: Total expected rows (approximate): 0
+0029.769 (0) Table wppt_commentmeta: Total rows added: 0 in 0.00 seconds
+0029.770 (0) Table wppt_commentmeta: finishing file (backup_2017-11-04-0615_Mars_Developer_34902ddf769c-db-table-wppt_commentmeta.table.gz - 0.3 KB)
+0029.772 (0) Table wppt_comments: Total expected rows (approximate): 2
+0029.773 (0) Table wppt_comments: Total rows added: 2 in 0.00 seconds
+0029.774 (0) Table wppt_comments: finishing file (backup_2017-11-04-0615_Mars_Developer_34902ddf769c-db-table-wppt_comments.table.gz - 0.7 KB)
+0029.781 (0) Table wppt_links: Total expected rows (approximate): 0
+0029.782 (0) Table wppt_links: Total rows added: 0 in 0.00 seconds
+0029.783 (0) Table wppt_links: finishing file (backup_2017-11-04-0615_Mars_Developer_34902ddf769c-db-table-wppt_links.table.gz - 0.4 KB)
+0029.785 (0) Table wppt_postmeta: Total expected rows (approximate): 1744
+0030.202 (0) Table wppt_postmeta: Total rows added: 1744 in 0.42 seconds
+0030.203 (0) Table wppt_postmeta: finishing file (backup_2017-11-04-0615_Mars_Developer_34902ddf769c-db-table-wppt_postmeta.table.gz - 529.3 KB)
+0030.205 (0) Table wppt_posts: Total expected rows (approximate): 703
+0030.498 (0) Table wppt_posts: Total rows added: 703 in 0.29 seconds
+0030.499 (0) Table wppt_posts: finishing file (backup_2017-11-04-0615_Mars_Developer_34902ddf769c-db-table-wppt_posts.table.gz - 540.4 KB)
+0030.501 (0) Table wppt_term_relationships: Total expected rows (approximate): 32
+0030.502 (0) Table wppt_term_relationships: Total rows added: 32 in 0.00 seconds
+0030.503 (0) Table wppt_term_relationships: finishing file (backup_2017-11-04-0615_Mars_Developer_34902ddf769c-db-table-wppt_term_relationships.table.gz - 0.4 KB)
+0030.505 (0) Table wppt_term_taxonomy: Total expected rows (approximate): 12
+0030.506 (0) Table wppt_term_taxonomy: Total rows added: 12 in 0.00 seconds
+0030.506 (0) Table wppt_term_taxonomy: finishing file (backup_2017-11-04-0615_Mars_Developer_34902ddf769c-db-table-wppt_term_taxonomy.table.gz - 0.5 KB)
+0030.508 (0) Table wppt_termmeta: Total expected rows (approximate): 0
+0030.509 (0) Table wppt_termmeta: Total rows added: 0 in 0.00 seconds
+0030.510 (0) Table wppt_termmeta: finishing file (backup_2017-11-04-0615_Mars_Developer_34902ddf769c-db-table-wppt_termmeta.table.gz - 0.3 KB)
+0030.512 (0) Table wppt_terms: Total expected rows (approximate): 12
+0030.513 (0) Table wppt_terms: Total rows added: 12 in 0.00 seconds
+0030.513 (0) Table wppt_terms: finishing file (backup_2017-11-04-0615_Mars_Developer_34902ddf769c-db-table-wppt_terms.table.gz - 0.5 KB)
+0030.523 (0) Table wppt_gg_cdn: Total expected rows (approximate): 0
+0030.526 (0) Table wppt_gg_cdn: Total rows added: 0 in 0.00 seconds
+0030.527 (0) Table wppt_gg_cdn: finishing file (backup_2017-11-04-0615_Mars_Developer_34902ddf769c-db-table-wppt_gg_cdn.table.gz - 0.3 KB)
+0030.537 (0) Table wppt_gg_folders: Total expected rows (approximate): 0
+0030.538 (0) Table wppt_gg_folders: Total rows added: 0 in 0.00 seconds
+0030.539 (0) Table wppt_gg_folders: finishing file (backup_2017-11-04-0615_Mars_Developer_34902ddf769c-db-table-wppt_gg_folders.table.gz - 0.3 KB)
+0030.541 (0) Table wppt_gg_galleries: Total expected rows (approximate): 0
+0030.542 (0) Table wppt_gg_galleries: Total rows added: 0 in 0.00 seconds
+0030.542 (0) Table wppt_gg_galleries: finishing file (backup_2017-11-04-0615_Mars_Developer_34902ddf769c-db-table-wppt_gg_galleries.table.gz - 0.3 KB)
+0030.550 (0) Table wppt_gg_galleries_excluded: Total expected rows (approximate): 0
+0030.551 (0) Table wppt_gg_galleries_excluded: Total rows added: 0 in 0.00 seconds
+0030.552 (0) Table wppt_gg_galleries_excluded: finishing file (backup_2017-11-04-0615_Mars_Developer_34902ddf769c-db-table-wppt_gg_galleries_excluded.table.gz - 0.3 KB)
+0030.560 (0) Table wppt_gg_galleries_resources: Total expected rows (approximate): 0
+0030.561 (0) Table wppt_gg_galleries_resources: Total rows added: 0 in 0.00 seconds
+0030.562 (0) Table wppt_gg_galleries_resources: finishing file (backup_2017-11-04-0615_Mars_Developer_34902ddf769c-db-table-wppt_gg_galleries_resources.table.gz - 0.3 KB)
+0030.570 (0) Table wppt_gg_image_optimize: Total expected rows (approximate): 0
+0030.572 (0) Table wppt_gg_image_optimize: Total rows added: 0 in 0.00 seconds
+0030.572 (0) Table wppt_gg_image_optimize: finishing file (backup_2017-11-04-0615_Mars_Developer_34902ddf769c-db-table-wppt_gg_image_optimize.table.gz - 0.4 KB)
+0030.578 (0) Table wppt_gg_membership_presets: Total expected rows (approximate): 0
+0030.579 (0) Table wppt_gg_membership_presets: Total rows added: 0 in 0.00 seconds
+0030.580 (0) Table wppt_gg_membership_presets: finishing file (backup_2017-11-04-0615_Mars_Developer_34902ddf769c-db-table-wppt_gg_membership_presets.table.gz - 0.3 KB)
+0030.586 (0) Table wppt_gg_photos: Total expected rows (approximate): 0
+0030.587 (0) Table wppt_gg_photos: Total rows added: 0 in 0.00 seconds
+0030.588 (0) Table wppt_gg_photos: finishing file (backup_2017-11-04-0615_Mars_Developer_34902ddf769c-db-table-wppt_gg_photos.table.gz - 0.3 KB)
+0030.595 (0) Table wppt_gg_photos_pos: Total expected rows (approximate): 0
+0030.596 (0) Table wppt_gg_photos_pos: Total rows added: 0 in 0.00 seconds
+0030.597 (0) Table wppt_gg_photos_pos: finishing file (backup_2017-11-04-0615_Mars_Developer_34902ddf769c-db-table-wppt_gg_photos_pos.table.gz - 0.3 KB)
+0030.601 (0) Table wppt_gg_photos_settings: Total expected rows (approximate): 0
+0030.602 (0) Table wppt_gg_photos_settings: Total rows added: 0 in 0.00 seconds
+0030.603 (0) Table wppt_gg_photos_settings: finishing file (backup_2017-11-04-0615_Mars_Developer_34902ddf769c-db-table-wppt_gg_photos_settings.table.gz - 0.3 KB)
+0030.609 (0) Table wppt_gg_settings_presets: Total expected rows (approximate): 0
+0030.610 (0) Table wppt_gg_settings_presets: Total rows added: 0 in 0.00 seconds
+0030.611 (0) Table wppt_gg_settings_presets: finishing file (backup_2017-11-04-0615_Mars_Developer_34902ddf769c-db-table-wppt_gg_settings_presets.table.gz - 0.3 KB)
+0030.617 (0) Table wppt_gg_settings_sets: Total expected rows (approximate): 0
+0030.618 (0) Table wppt_gg_settings_sets: Total rows added: 0 in 0.00 seconds
+0030.618 (0) Table wppt_gg_settings_sets: finishing file (backup_2017-11-04-0615_Mars_Developer_34902ddf769c-db-table-wppt_gg_settings_sets.table.gz - 0.3 KB)
+0030.620 (0) Table wppt_gg_stats: Total expected rows (approximate): 0
+0030.622 (0) Table wppt_gg_stats: Total rows added: 0 in 0.00 seconds
+0030.622 (0) Table wppt_gg_stats: finishing file (backup_2017-11-04-0615_Mars_Developer_34902ddf769c-db-table-wppt_gg_stats.table.gz - 0.3 KB)
+0030.627 (0) Table wppt_gg_tags: Total expected rows (approximate): 0
+0030.628 (0) Table wppt_gg_tags: Total rows added: 0 in 0.00 seconds
+0030.628 (0) Table wppt_gg_tags: finishing file (backup_2017-11-04-0615_Mars_Developer_34902ddf769c-db-table-wppt_gg_tags.table.gz - 0.3 KB)
+0030.630 (0) Table wppt_itro_plugin_field: Total expected rows (approximate): 1
+0030.631 (0) Table wppt_itro_plugin_field: Total rows added: 1 in 0.00 seconds
+0030.632 (0) Table wppt_itro_plugin_field: finishing file (backup_2017-11-04-0615_Mars_Developer_34902ddf769c-db-table-wppt_itro_plugin_field.table.gz - 0.5 KB)
+0030.634 (0) Table wppt_itro_plugin_option: Total expected rows (approximate): 84
+0030.636 (0) Table wppt_itro_plugin_option: Total rows added: 84 in 0.00 seconds
+0030.922 (0) Table wppt_itro_plugin_option: finishing file (backup_2017-11-04-0615_Mars_Developer_34902ddf769c-db-table-wppt_itro_plugin_option.table.gz - 1.1 KB)
+0030.933 (0) Table wppt_yoast_seo_links: Total expected rows (approximate): 18
+0030.935 (0) Table wppt_yoast_seo_links: Total rows added: 18 in 0.00 seconds
+0030.936 (0) Table wppt_yoast_seo_links: finishing file (backup_2017-11-04-0615_Mars_Developer_34902ddf769c-db-table-wppt_yoast_seo_links.table.gz - 0.6 KB)
+0030.948 (0) Table wppt_yoast_seo_meta: Total expected rows (approximate): 18
+0030.950 (0) Table wppt_yoast_seo_meta: Total rows added: 18 in 0.00 seconds
+0030.950 (0) Table wppt_yoast_seo_meta: finishing file (backup_2017-11-04-0615_Mars_Developer_34902ddf769c-db-table-wppt_yoast_seo_meta.table.gz - 0.4 KB)
+0030.953 (0) backup_2017-11-04-0615_Mars_Developer_34902ddf769c-db-table-wppt_options.table.gz (1/30): adding to final database dump
+0030.965 (0) backup_2017-11-04-0615_Mars_Developer_34902ddf769c-db-table-wppt_users.table.gz (2/30): adding to final database dump
+0030.965 (0) backup_2017-11-04-0615_Mars_Developer_34902ddf769c-db-table-wppt_usermeta.table.gz (3/30): adding to final database dump
+0030.966 (0) backup_2017-11-04-0615_Mars_Developer_34902ddf769c-db-table-wppt_commentmeta.table.gz (4/30): adding to final database dump
+0030.966 (0) backup_2017-11-04-0615_Mars_Developer_34902ddf769c-db-table-wppt_comments.table.gz (5/30): adding to final database dump
+0030.967 (0) backup_2017-11-04-0615_Mars_Developer_34902ddf769c-db-table-wppt_links.table.gz (6/30): adding to final database dump
+0030.967 (0) backup_2017-11-04-0615_Mars_Developer_34902ddf769c-db-table-wppt_postmeta.table.gz (7/30): adding to final database dump
+0031.247 (0) backup_2017-11-04-0615_Mars_Developer_34902ddf769c-db-table-wppt_posts.table.gz (8/30): adding to final database dump
+0031.450 (0) backup_2017-11-04-0615_Mars_Developer_34902ddf769c-db-table-wppt_term_relationships.table.gz (9/30): adding to final database dump
+0031.451 (0) backup_2017-11-04-0615_Mars_Developer_34902ddf769c-db-table-wppt_term_taxonomy.table.gz (10/30): adding to final database dump
+0031.451 (0) backup_2017-11-04-0615_Mars_Developer_34902ddf769c-db-table-wppt_termmeta.table.gz (11/30): adding to final database dump
+0031.451 (0) backup_2017-11-04-0615_Mars_Developer_34902ddf769c-db-table-wppt_terms.table.gz (12/30): adding to final database dump
+0031.452 (0) backup_2017-11-04-0615_Mars_Developer_34902ddf769c-db-table-wppt_gg_cdn.table.gz (13/30): adding to final database dump
+0031.452 (0) backup_2017-11-04-0615_Mars_Developer_34902ddf769c-db-table-wppt_gg_folders.table.gz (14/30): adding to final database dump
+0031.453 (0) backup_2017-11-04-0615_Mars_Developer_34902ddf769c-db-table-wppt_gg_galleries.table.gz (15/30): adding to final database dump
+0031.453 (0) backup_2017-11-04-0615_Mars_Developer_34902ddf769c-db-table-wppt_gg_galleries_excluded.table.gz (16/30): adding to final database dump
+0031.453 (0) backup_2017-11-04-0615_Mars_Developer_34902ddf769c-db-table-wppt_gg_galleries_resources.table.gz (17/30): adding to final database dump
+0031.454 (0) backup_2017-11-04-0615_Mars_Developer_34902ddf769c-db-table-wppt_gg_image_optimize.table.gz (18/30): adding to final database dump
+0031.454 (0) backup_2017-11-04-0615_Mars_Developer_34902ddf769c-db-table-wppt_gg_membership_presets.table.gz (19/30): adding to final database dump
+0031.455 (0) backup_2017-11-04-0615_Mars_Developer_34902ddf769c-db-table-wppt_gg_photos.table.gz (20/30): adding to final database dump
+0031.455 (0) backup_2017-11-04-0615_Mars_Developer_34902ddf769c-db-table-wppt_gg_photos_pos.table.gz (21/30): adding to final database dump
+0031.455 (0) backup_2017-11-04-0615_Mars_Developer_34902ddf769c-db-table-wppt_gg_photos_settings.table.gz (22/30): adding to final database dump
+0031.456 (0) backup_2017-11-04-0615_Mars_Developer_34902ddf769c-db-table-wppt_gg_settings_presets.table.gz (23/30): adding to final database dump
+0031.456 (0) backup_2017-11-04-0615_Mars_Developer_34902ddf769c-db-table-wppt_gg_settings_sets.table.gz (24/30): adding to final database dump
+0031.457 (0) backup_2017-11-04-0615_Mars_Developer_34902ddf769c-db-table-wppt_gg_stats.table.gz (25/30): adding to final database dump
+0031.457 (0) backup_2017-11-04-0615_Mars_Developer_34902ddf769c-db-table-wppt_gg_tags.table.gz (26/30): adding to final database dump
+0031.457 (0) backup_2017-11-04-0615_Mars_Developer_34902ddf769c-db-table-wppt_itro_plugin_field.table.gz (27/30): adding to final database dump
+0031.458 (0) backup_2017-11-04-0615_Mars_Developer_34902ddf769c-db-table-wppt_itro_plugin_option.table.gz (28/30): adding to final database dump
+0031.458 (0) backup_2017-11-04-0615_Mars_Developer_34902ddf769c-db-table-wppt_yoast_seo_links.table.gz (29/30): adding to final database dump
+0031.459 (0) backup_2017-11-04-0615_Mars_Developer_34902ddf769c-db-table-wppt_yoast_seo_meta.table.gz (30/30): adding to final database dump
+0031.459 (0) backup_2017-11-04-0615_Mars_Developer_34902ddf769c-db.gz: finished writing out complete database file (1072 KB)
+0031.478 (0) Total database tables backed up: 30 (backup_2017-11-04-0615_Mars_Developer_34902ddf769c-db.gz, size: 1134486, sha256)
+0031.480 (0) backup_2017-11-04-0615_Mars_Developer_34902ddf769c-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0031.481 (0) backup_2017-11-04-0615_Mars_Developer_34902ddf769c-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0031.481 (0) backup_2017-11-04-0615_Mars_Developer_34902ddf769c-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0031.481 (0) backup_2017-11-04-0615_Mars_Developer_34902ddf769c-others.zip: others: This file has not yet been successfully uploaded: will queue
+0031.482 (0) backup_2017-11-04-0615_Mars_Developer_34902ddf769c-db.gz: db: This file has not yet been successfully uploaded: will queue
+0031.482 (0) Saving backup history. Total backup size: 78.4 MB
+0031.483 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0031.484 (0) Cloud backup selection (1/1): none (last)
+0031.485 (0) No remote despatch: user chose no remote backup service
+0031.485 (0) Recording as successfully uploaded: backup_2017-11-04-0615_Mars_Developer_34902ddf769c-plugins.zip (1aec13872a00e5354579975623eb5c8c)
+0031.488 (0) Recording as successfully uploaded: backup_2017-11-04-0615_Mars_Developer_34902ddf769c-themes.zip (8e967ad01dc6f1eaf5a9bfd2ab317c9b)
+0031.490 (0) Recording as successfully uploaded: backup_2017-11-04-0615_Mars_Developer_34902ddf769c-uploads.zip (87190c02291fc1533e5d942e23b949c7)
+0031.492 (0) Recording as successfully uploaded: backup_2017-11-04-0615_Mars_Developer_34902ddf769c-others.zip (39e4bad7d49039a89b42bfbd3902acfa)
+0031.494 (0) Recording as successfully uploaded: backup_2017-11-04-0615_Mars_Developer_34902ddf769c-db.gz (77efc9cde8fa5b803c49a69973d9839e)
+0031.496 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0031.497 (0) Number of backup sets in history: 1; groups (db): 1
+0031.497 (0) Examining (for databases) backup set with group_id=0, nonce=34902ddf769c, datestamp=1509776147 (Nov 04 2017 06:15:47)
+0031.498 (0) This backup set is the backup set just made, so will not be deleted.
+0031.498 (0) Number of backup sets in history: 1; groups (files): 1
+0031.498 (0) Examining (for files) backup set with nonce=34902ddf769c, datestamp=1509776147 (Nov 04 2017 06:15:47)
+0031.498 (0) This backup set is the backup set just made, so will not be deleted.
+0031.498 (0) This backup set is the backup set just made, so will not be deleted.
+0031.498 (0) This backup set is the backup set just made, so will not be deleted.
+0031.498 (0) This backup set is the backup set just made, so will not be deleted.
+0031.498 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0031.499 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0031.500 (0) Resume backup (34902ddf769c, 0): finish run
+0031.501 (0) Decremented the semaphore (fd) by 1
+0031.501 (0) Semaphore (fd) unlocked
+0031.501 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0031.503 (0) No email will/can be sent - the user has not configured an email address.
+0031.503 (0) The backup apparently succeeded and is now complete
